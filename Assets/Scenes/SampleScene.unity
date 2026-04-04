@@ -434,6 +434,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8888857212204506833, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: db119a3388da94b4289f983e0bc52507, type: 2}
     - target: {fileID: -8679921383154817045, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -474,10 +478,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -5877590599344681437, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: db119a3388da94b4289f983e0bc52507, type: 2}
+    - target: {fileID: -1992840068582980120, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: db119a3388da94b4289f983e0bc52507, type: 2}
+    - target: {fileID: -928311989216669101, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: db119a3388da94b4289f983e0bc52507, type: 2}
     - target: {fileID: 919132149155446097, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
       propertyPath: m_Name
       value: GAD4_StylePropsAniFly_MandiNickerson_Prop02_RadishRabbit
       objectReference: {fileID: 0}
+    - target: {fileID: 3907536386554048763, guid: a99ee66571c96c0458009ddf9845826a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: db119a3388da94b4289f983e0bc52507, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
